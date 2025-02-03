@@ -59,11 +59,24 @@ Access the system:
 
 
 Main interface: http://127.0.0.1:8000
+
+
 Admin panel: http://127.0.0.1:8000/admin
+
+
 API endpoints: Get FAQs in specific language
+
+
+
 http://127.0.0.1:8000/?lang=hi  # Hindi
+
+
 http://127.0.0.1:8000/?lang=bn  # Bengali
+
+
 http://127.0.0.1:8000/?lang=es  # Spanish
+
+
 
 
 # Admin Interface
